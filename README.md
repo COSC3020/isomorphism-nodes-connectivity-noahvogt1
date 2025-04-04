@@ -19,7 +19,7 @@ They have the same number of nodes n
 
 
 Since both graphs have the same number of vertices n, we can define a map $f: V_1 \rightarrow V_2$  that 
-uniquely maps every vertexin $G_1$ to $G_2$. This means the map f is both one to
+uniquely maps every vertex in $G_1$ to $G_2$. This means the map f is both one to
 one and onto proving bijection.
 
 Since $G_1$ and $G_2$ are completed graphs, this means that every pair of vertices
