@@ -30,7 +30,7 @@ It is also onto because every vertex in $V_2$ has a preimage in $V_1$.
 Since $G_1$ and $G_2$ are completed graphs, this means that every pair of vertices
 is connected by an edge. Therefore, for any, $u,v \in V_1$  there is a
 $(u,v) \in E_1$. Since there is a map $f$ that is both one-to-one and onto between
-$G_1$ and $G_2$, this means that $G_2$ is also a completely connected graph. And therefore
-$(f(u),f(v)) \in E_2$.
+$G_1$ and $G_2$, this means that $G_2$ is also a completely connected graph and 
+therefore through bijection $(f(u),f(v)) \in E_2$.
 
 Therefore the graphs are isomorphic by definition of isomorphism.
