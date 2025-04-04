@@ -18,9 +18,7 @@ Graphs  and  are completely connected
 They have the same number of nodes n
 
 
-Since the graphs are completely connected, we can say that each vertex in $G_1$ 
-and $G_2$  are adjacent to every other vertex in each graph respectively. Since
-both graphs have the same number of vertices n, we can define a map $f: V_1 \rightarrow V_2$  that 
+Since both graphs have the same number of vertices n, we can define a map $f: V_1 \rightarrow V_2$  that 
 uniquely maps every vertexin $G_1$ to $G_2$. This means the map f is both one to
 one and onto proving bijection.
 
