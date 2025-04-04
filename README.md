@@ -23,13 +23,13 @@ They have the same number of nodes n
 
 
 Since both graphs have the same number of vertices n, we can define a map $f: V_1 \rightarrow V_2$  that 
-uniquely maps every vertex in $G_1$ to $G_2$. This function \( f \) is one-to-one
-because no two vertices in \( V_1 \) map to the same vertex in \( V_2 \).
-It is also onto because every vertex in \( V_2 \) has a preimage in \( V_1 \).
+uniquely maps every vertex in $G_1$ to $G_2$. This function f is one-to-one
+because no two vertices in $V_1$ map to the same vertex in $V_2$.
+It is also onto because every vertex in $V_2$ has a preimage in $V_1$.
 
 Since $G_1$ and $G_2$ are completed graphs, this means that every pair of vertices
-is connected by an edge. Therefore, for any , $u,v \in V_1$  there is a
-$(u,v) \in E_1$. Since there is a map f that is both one-to-one and onto between
+is connected by an edge. Therefore, for any, $u,v \in V_1$  there is a
+$(u,v) \in E_1$. Since there is a map $f$ that is both one-to-one and onto between
 $G_1$ and $G_2$, this means that $G_2$ is also a completely connected graph. And therefore
 $(f(u),f(v)) \in E_2$.
 
