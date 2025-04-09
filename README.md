@@ -22,7 +22,7 @@ Graphs  and  are completely connected
 They have the same number of nodes n
 
 
-Since both graphs have the same number of vertices n, we can define a bijective map $f: V_1 \rightarrow V_2$  that 
+Since both graphs have the same number of vertices n, we can define a bijective function $f: V_1 \rightarrow V_2$  that 
 uniquely maps every vertex in $G_1$ to $G_2$. This function f is one-to-one
 because no two vertices in $V_1$ map to the same vertex in $V_2$.
 It is also onto because every vertex in $V_2$ has a preimage in $V_1$.
