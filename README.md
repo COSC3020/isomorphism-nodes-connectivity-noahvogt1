@@ -27,7 +27,8 @@ be labeled $w_1, w_2, w_3,..., w_n$. Sincce the graphs have the same number of n
 we can define a bijective function $f(v_i) = w_i$  for each $i \in {1, 2, 3,..., n}$  that 
 uniquely maps every vertex in $G_1$ to $G_2$. This function f is one-to-one
 because no two vertices in $V_1$ map to the same vertex in $V_2$.
-It is also onto because every vertex in $V_2$ has a preimage in $V_1$.
+It is also onto because every vertex in $V_2$ has a preimage in $V_1$. Therefore, it fullfills
+the requirements for bijectivity.
 
 Since $G_1$ and $G_2$ are completed graphs, this means that every pair of vertices
 is connected by an edge. Therefore, for any, $u,v \in V_1$  there is a
