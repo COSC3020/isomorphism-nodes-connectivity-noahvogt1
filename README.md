@@ -24,7 +24,7 @@ They have the same number of nodes n
 
 Let all vertices in $G_1$ be labeled $v_1, v_2, v_3,...,v_n$  and all vertices in $G_2$
 be labeled $w_1, w_2, w_3,..., w_n$. Sincce the graphs have the same number of nodes n,
-we can define a bijective function $f(v_n) = w_n$  for each $i \in {1, 2, 3,..., n}$  that 
+we can define a bijective function $f(v_i) = w_i$  for each $i \in {1, 2, 3,..., n}$  that 
 uniquely maps every vertex in $G_1$ to $G_2$. This function f is one-to-one
 because no two vertices in $V_1$ map to the same vertex in $V_2$.
 It is also onto because every vertex in $V_2$ has a preimage in $V_1$.
